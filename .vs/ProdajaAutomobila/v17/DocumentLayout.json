@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{916EC8DB-C5B8-4656-BC64-A35581B3EEDF}|ProdajaAutomobila\\ProdajaAutomobila.csproj|c:\\users\\belmin\\source\\repos\\prodajaautomobila\\prodajaautomobila\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{916EC8DB-C5B8-4656-BC64-A35581B3EEDF}|ProdajaAutomobila\\ProdajaAutomobila.csproj|solutionrelative:prodajaautomobila\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{916EC8DB-C5B8-4656-BC64-A35581B3EEDF}|ProdajaAutomobila\\ProdajaAutomobila.csproj|c:\\users\\belmin\\source\\repos\\prodajaautomobila\\prodajaautomobila\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{916EC8DB-C5B8-4656-BC64-A35581B3EEDF}|ProdajaAutomobila\\ProdajaAutomobila.csproj|solutionrelative:prodajaautomobila\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916EC8DB-C5B8-4656-BC64-A35581B3EEDF}|ProdajaAutomobila\\ProdajaAutomobila.csproj|c:\\users\\belmin\\source\\repos\\prodajaautomobila\\prodajaautomobila\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{916EC8DB-C5B8-4656-BC64-A35581B3EEDF}|ProdajaAutomobila\\ProdajaAutomobila.csproj|solutionrelative:prodajaautomobila\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{916EC8DB-C5B8-4656-BC64-A35581B3EEDF}|ProdajaAutomobila\\ProdajaAutomobila.csproj|c:\\users\\belmin\\source\\repos\\prodajaautomobila\\prodajaautomobila\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -162,7 +162,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 38,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Document",
@@ -414,13 +414,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Controllers\\AccountController.cs",
               "RelativeToolTip": "ProdajaAutomobila\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAAAGAAAAANAAAA",
+              "ViewState": "AQIAAMMAAAAAAAAAAAD4v9wAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T21:29:31.571Z",
               "EditorCaption": ""
@@ -616,13 +616,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\appsettings.json",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\appsettings.json",
               "ToolTip": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\appsettings.json",
               "RelativeToolTip": "ProdajaAutomobila\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-31T14:48:39.204Z",
               "EditorCaption": ""
