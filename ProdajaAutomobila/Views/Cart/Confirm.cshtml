@@ -1,0 +1,46 @@
+﻿@{
+}
+
+
+<div class="mx-auto rounded border p-4" style="width: 420px">
+    <h2 class="text-center mb-3">Detalji narudžbe</h2>
+    <hr />
+
+    @if (ViewBag.SuccessMessage != null)
+    {
+        <div class="alert alert-success" role="alert">@ViewBag.SuccessMessage</div>
+        <a class="btn btn-outline-primary" asp-controller="ClientOrders" asp-action="Index">Back</a>
+    }
+    else
+    {
+        <div class="row mb-3">
+            <div class="col-5">Adresa za dostavu automobila</div>
+            <div class="col-7">@ViewBag.DeliveryAddress</div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-5">Način plaćanja</div>
+            <div class="col-7">@ViewBag.PaymentMethod</div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-5">Ukupna cijena</div>
+            <div class="col-7">@(ViewBag.Total)KM</div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-5">Količina</div>
+            <div class="col-7">@(ViewBag.CartSize)</div>
+        </div>
+
+
+        <form method="post">
+            <div class="row">
+                <div class="col-sm-6 d-grid">
+                    <button type="submit" class="btn btn-primary">Potvrdite</button>
+                </div>
+                <div class="col-sm-6 d-grid">
+                    <a class="btn btn-outline-primary" asp-controller="Cart" asp-action="Index">Nazad</a>
+                </div>
+            </div>
+        </form>
+    }
+
+</div>

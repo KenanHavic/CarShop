@@ -1,0 +1,96 @@
+﻿
+@using Microsoft.AspNetCore.Html;
+
+@model StoreSearchModel
+@{
+}
+
+<h2 class="pb-4 text-center">Automobili</h2>
+
+
+<form class="row g-3 mb-3">
+    <div class="col-lg-2 col-md-4">
+    <select class="form-select" name="brand" onchange="this.form.submit()">
+        <option value="">Odaberi brend</option>
+        <option value="Audi">Audi</option>
+        <option value="BMW">BMW</option>
+        <option value="Mercedes-Benz">Mercedes-Benz</option>
+        <option value="Volkswagen">Volkswagen</option>
+        <option value="Škoda">Škoda</option>
+        <option value="Renault">Renault</option>
+        <option value="Peugeot">Peugeot</option>
+        <option value="Fiat">Fiat</option>
+        <option value="Ford">Ford</option>
+        <option value="Toyota">Toyota</option>
+        <option value="Honda">Honda</option>
+        <option value="Nissan">Nissan</option>
+        <option value="Kia">Kia</option>
+        <option value="Hyundai">Hyundai</option>
+        <option value="Mazda">Mazda</option>
+    </select>
+</div>
+
+   <div class="col-lg-2 col-md-4">
+    <select class="form-select" name="category" onchange="this.form.submit()">
+        <option value="">Odaberi kategoriju</option>
+        <option value="SUV">SUV</option>
+        <option value="Sedan">Sedan</option>
+        <option value="Hatchback">Hatchback</option>
+        <option value="Coupe">Coupe</option>
+        <option value="Crossover">Crossover</option>
+        <option value="Convertible">Convertible</option>
+        <option value="Minivan">Minivan</option>
+        <option value="Pickup">Pickup</option>
+        <option value="Station Wagon">Station Wagon</option>
+    </select>
+</div>
+
+    <div class="col-lg-2 col-md-4">
+        <select class="form-select" name="sort" asp-for="Sort" onchange="this.form.submit()">
+            <option value="newest">Najnoviji</option>
+            <option value="price_asc">Cijena: Od najmanje</option>
+            <option value="price_desc">Cijena: Od najveće</option>
+        </select>
+    </div>
+    <div class="col-lg-6 col-md-12 d-flex">
+        <input class="form-control me-2" name="search" asp-for="Search" placeholder="Pretraži po imenu">
+        <button class="btn btn-outline-success" type="submit">Pretraži</button>
+    </div>
+</form>
+
+<div class="row mb-5 g-3">
+    @foreach (var product in ViewBag.Products)
+    {
+            <div class="col-lg-3 col-md-6">
+                <div class="rounded border shadow p-3 text-center h-100">
+                    <img src="/products/@product.ImageFileName" class="img-fluid" alt="..."
+                     style="height: 180px; object-fit: contain" />
+                    <hr />
+                    <h5 class="py-2">@product.Name</h5>
+                    <p>
+                        Brand: @product.Brand, Category: @product.Category
+                    </p>
+                    <h4 class="mb-3">@(product.Price)KM</h4>
+                    <a class="btn btn-primary btn-sm mb-2" asp-controller="Store" 
+                                asp-action="Details" asp-route-id="@product.Id" role="button">Detalji</a>
+                    <button type="button" class="btn btn-warning btn-sm mb-2" onclick="addToCart(this, @product.Id)">
+                        Dodaj u korpu <i class="bi bi-cart4"></i>
+                    </button>
+                </div>
+            </div>
+    }
+</div>
+
+
+<nav>
+    <ul class="pagination">
+        @for (int i = 1; i <= ViewBag.TotalPages; i++)
+        {
+            string active = "";
+            if (i == ViewBag.PageIndex) active = "active";
+                <li class="page-item @active"><a class="page-link" asp-route-pageIndex="@i"
+                    asp-route-search="@Model.Search" asp-route-brand="@Model.Brand" 
+                   asp-route-category="@Model.Category" asp-route-sort="@Model.Sort">@i</a></li>
+        }
+    </ul>
+</nav>

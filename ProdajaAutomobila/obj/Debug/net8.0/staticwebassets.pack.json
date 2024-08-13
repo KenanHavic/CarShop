@@ -1,0 +1,413 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ProdajaAutomobila.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProdajaAutomobila.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\MB E klasa.jpg",
+      "PackagePath": "staticwebassets\\Products\\MB E klasa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\MB c klasa.jpg",
+      "PackagePath": "staticwebassets\\Products\\MB c klasa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\Nissan_gtr.jpg",
+      "PackagePath": "staticwebassets\\Products\\Nissan_gtr.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\acura_tlx.jpg",
+      "PackagePath": "staticwebassets\\Products\\acura_tlx.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\audi_a4.jpg",
+      "PackagePath": "staticwebassets\\Products\\audi_a4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\audi_a6.jpg",
+      "PackagePath": "staticwebassets\\Products\\audi_a6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\bmw_3_series.jpg",
+      "PackagePath": "staticwebassets\\Products\\bmw_3_series.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\bmw_3_series.webp",
+      "PackagePath": "staticwebassets\\Products\\bmw_3_series.webp"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\bmw_5_series.jpg",
+      "PackagePath": "staticwebassets\\Products\\bmw_5_series.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\chevrolet_camaro.jpg",
+      "PackagePath": "staticwebassets\\Products\\chevrolet_camaro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\chevrolet_malibu.jpg",
+      "PackagePath": "staticwebassets\\Products\\chevrolet_malibu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\ferrari_488.jpg",
+      "PackagePath": "staticwebassets\\Products\\ferrari_488.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\ford_focus.jpg",
+      "PackagePath": "staticwebassets\\Products\\ford_focus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\ford_mustang.jpg",
+      "PackagePath": "staticwebassets\\Products\\ford_mustang.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\honda_accord.jpg",
+      "PackagePath": "staticwebassets\\Products\\honda_accord.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\honda_civic.jpg",
+      "PackagePath": "staticwebassets\\Products\\honda_civic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\hyundai_elantra.jpg",
+      "PackagePath": "staticwebassets\\Products\\hyundai_elantra.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\infiniti_q50.jpg",
+      "PackagePath": "staticwebassets\\Products\\infiniti_q50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\jaguar_ftype.jpg",
+      "PackagePath": "staticwebassets\\Products\\jaguar_ftype.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\kia_optima.jpg",
+      "PackagePath": "staticwebassets\\Products\\kia_optima.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\lamborghini_huracan.jpg",
+      "PackagePath": "staticwebassets\\Products\\lamborghini_huracan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\lexus_es.jpg",
+      "PackagePath": "staticwebassets\\Products\\lexus_es.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\mazda_mx5.jpg",
+      "PackagePath": "staticwebassets\\Products\\mazda_mx5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\mercedes_c_class.jpg",
+      "PackagePath": "staticwebassets\\Products\\mercedes_c_class.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\porsche_911.jpg",
+      "PackagePath": "staticwebassets\\Products\\porsche_911.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\subaru_impreza.jpg",
+      "PackagePath": "staticwebassets\\Products\\subaru_impreza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\tesla_model_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\tesla_model_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\toyota_camry.jpg",
+      "PackagePath": "staticwebassets\\Products\\toyota_camry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\toyota_corolla.jpg",
+      "PackagePath": "staticwebassets\\Products\\toyota_corolla.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\volkswagen_golf.jpg",
+      "PackagePath": "staticwebassets\\Products\\volkswagen_golf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\volkswagen_passat.jpg",
+      "PackagePath": "staticwebassets\\Products\\volkswagen_passat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\Products\\volvo_s60.jpg",
+      "PackagePath": "staticwebassets\\Products\\volvo_s60.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\images\\background.png",
+      "PackagePath": "staticwebassets\\images\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\images\\hero.png",
+      "PackagePath": "staticwebassets\\images\\hero.png"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\images\\heroo.png",
+      "PackagePath": "staticwebassets\\images\\heroo.png"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\images\\herooo.png",
+      "PackagePath": "staticwebassets\\images\\herooo.png"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\images\\icon.jpg",
+      "PackagePath": "staticwebassets\\images\\icon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProdajaAutomobila.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProdajaAutomobila.props",
+      "PackagePath": "build\\ProdajaAutomobila.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProdajaAutomobila.props",
+      "PackagePath": "buildMultiTargeting\\ProdajaAutomobila.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProdajaAutomobila.props",
+      "PackagePath": "buildTransitive\\ProdajaAutomobila.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
