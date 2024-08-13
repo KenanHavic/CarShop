@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{916EC8DB-C5B8-4656-BC64-A35581B3EEDF}|ProdajaAutomobila\\ProdajaAutomobila.csproj|c:\\users\\belmin\\source\\repos\\prodajaautomobila\\prodajaautomobila\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{916EC8DB-C5B8-4656-BC64-A35581B3EEDF}|ProdajaAutomobila\\ProdajaAutomobila.csproj|solutionrelative:prodajaautomobila\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{916EC8DB-C5B8-4656-BC64-A35581B3EEDF}|ProdajaAutomobila\\ProdajaAutomobila.csproj|c:\\users\\belmin\\source\\repos\\prodajaautomobila\\prodajaautomobila\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{916EC8DB-C5B8-4656-BC64-A35581B3EEDF}|ProdajaAutomobila\\ProdajaAutomobila.csproj|solutionrelative:prodajaautomobila\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -116,10 +120,6 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Belmin\\AppData\\Local\\Temp\\.vsdbgsrc\\bafce640efcb10ac970c83e5829242b9d4a5459fa530575f3e4221d7e9010154\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{916EC8DB-C5B8-4656-BC64-A35581B3EEDF}|ProdajaAutomobila\\ProdajaAutomobila.csproj|c:\\users\\belmin\\source\\repos\\prodajaautomobila\\prodajaautomobila\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{916EC8DB-C5B8-4656-BC64-A35581B3EEDF}|ProdajaAutomobila\\ProdajaAutomobila.csproj|solutionrelative:prodajaautomobila\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{916EC8DB-C5B8-4656-BC64-A35581B3EEDF}|ProdajaAutomobila\\ProdajaAutomobila.csproj|c:\\users\\belmin\\source\\repos\\prodajaautomobila\\prodajaautomobila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{916EC8DB-C5B8-4656-BC64-A35581B3EEDF}|ProdajaAutomobila\\ProdajaAutomobila.csproj|solutionrelative:prodajaautomobila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -162,11 +162,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 38,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Models\\ProductDto.cs",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Models\\ProductDto.cs",
@@ -175,12 +175,11 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-06T11:34:43.146Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Views\\Users\\Index.cshtml",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Views\\Users\\Index.cshtml",
@@ -188,32 +187,29 @@
               "RelativeToolTip": "ProdajaAutomobila\\Views\\Users\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-12T15:47:43.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "dbo.AspNetUsers [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/./CarShopDb/True/SqlTable/dbo.AspNetUsers.sql",
-              "ToolTip": "dbo.AspNetUsers [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-08-12T08:51:34.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T15:47:43.83Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "dbo.AspNetUserLogins [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/./CarShopDb/True/SqlTable/dbo.AspNetUserLogins.sql",
-              "ToolTip": "dbo.AspNetUserLogins [Data]",
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./CarShopDb/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-08-12T08:51:25.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T08:51:34.296Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
+              "Title": "dbo.AspNetUserLogins [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./CarShopDb/True/SqlTable/dbo.AspNetUserLogins.sql",
+              "ToolTip": "dbo.AspNetUserLogins [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-12T08:51:25.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Views\\Home\\Privacy.cshtml",
@@ -221,12 +217,11 @@
               "RelativeToolTip": "ProdajaAutomobila\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-12T08:34:32.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T08:34:32.45Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Views\\Account\\Register.cshtml",
@@ -238,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Confirm.cshtml",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Views\\Cart\\Confirm.cshtml",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Views\\Cart\\Confirm.cshtml",
@@ -246,12 +241,11 @@
               "RelativeToolTip": "ProdajaAutomobila\\Views\\Cart\\Confirm.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-09T15:59:00.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T15:59:00.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "CheckoutDto.cs",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Models\\CheckoutDto.cs",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Models\\CheckoutDto.cs",
@@ -263,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Belmin\\AppData\\Local\\Temp\\.vsdbgsrc\\bafce640efcb10ac970c83e5829242b9d4a5459fa530575f3e4221d7e9010154\\HomeController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\bafce640efcb10ac970c83e5829242b9d4a5459fa530575f3e4221d7e9010154\\HomeController.cs",
@@ -276,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Views\\Cart\\Index.cshtml",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Views\\Cart\\Index.cshtml",
@@ -284,12 +278,11 @@
               "RelativeToolTip": "ProdajaAutomobila\\Views\\Cart\\Index.cshtml",
               "ViewState": "AQIAAFQAAAAAAAAAAAAAAIAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-09T14:28:21.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T14:28:21.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Controllers\\CartController.cs",
@@ -297,12 +290,11 @@
               "RelativeToolTip": "ProdajaAutomobila\\Controllers\\CartController.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAIwDgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T14:11:18.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T14:11:18.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "CartHelper.cs",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Services\\CartHelper.cs",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Services\\CartHelper.cs",
@@ -310,12 +302,11 @@
               "RelativeToolTip": "ProdajaAutomobila\\Services\\CartHelper.cs",
               "ViewState": "AQIAADsAAAAAAAAAAAAowEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T14:06:01.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T14:06:01.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "20240809132859_ThirdMigration.cs",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Migrations\\20240809132859_ThirdMigration.cs",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Migrations\\20240809132859_ThirdMigration.cs",
@@ -323,12 +314,11 @@
               "RelativeToolTip": "ProdajaAutomobila\\Migrations\\20240809132859_ThirdMigration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T13:29:00.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T13:29:00.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Models\\OrderItem.cs",
@@ -336,12 +326,11 @@
               "RelativeToolTip": "ProdajaAutomobila\\Models\\OrderItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T13:24:24.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T13:24:24.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Models\\Order.cs",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Models\\Order.cs",
@@ -349,8 +338,7 @@
               "RelativeToolTip": "ProdajaAutomobila\\Models\\Order.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T09:54:30.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T09:54:30.016Z"
             },
             {
               "$type": "Document",
@@ -414,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Views\\Account\\Profile.cshtml",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Views\\Account\\Profile.cshtml",
@@ -422,25 +410,24 @@
               "RelativeToolTip": "ProdajaAutomobila\\Views\\Account\\Profile.cshtml",
               "ViewState": "AQIAAAAAAAAAoJmZmZnZv0QAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-08T21:56:58.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T21:56:58.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Controllers\\AccountController.cs*",
-              "RelativeToolTip": "ProdajaAutomobila\\Controllers\\AccountController.cs*",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAgwGAAAAANAAAA",
+              "ToolTip": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ProdajaAutomobila\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAGAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T21:29:31.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Views\\Store\\Details.cshtml",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Views\\Store\\Details.cshtml",
@@ -448,12 +435,11 @@
               "RelativeToolTip": "ProdajaAutomobila\\Views\\Store\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-08T12:09:37.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T12:09:37.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Views\\Store\\Index.cshtml",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Views\\Store\\Index.cshtml",
@@ -461,12 +447,11 @@
               "RelativeToolTip": "ProdajaAutomobila\\Views\\Store\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-08T11:33:10.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T11:33:10.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "StoreController.cs",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Controllers\\StoreController.cs",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Controllers\\StoreController.cs",
@@ -474,12 +459,11 @@
               "RelativeToolTip": "ProdajaAutomobila\\Controllers\\StoreController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T11:30:07.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T11:30:07.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Controllers\\HomeController.cs",
@@ -491,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Views\\Home\\Index.cshtml",
@@ -499,12 +483,11 @@
               "RelativeToolTip": "ProdajaAutomobila\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-07T12:46:18.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T12:46:18.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Views\\Products\\Edit.cshtml",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Views\\Products\\Edit.cshtml",
@@ -512,12 +495,11 @@
               "RelativeToolTip": "ProdajaAutomobila\\Views\\Products\\Edit.cshtml",
               "ViewState": "AQIAADwAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-06T12:16:25.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T12:16:25.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Views\\Products\\Create.cshtml",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Views\\Products\\Create.cshtml",
@@ -525,12 +507,11 @@
               "RelativeToolTip": "ProdajaAutomobila\\Views\\Products\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-06T11:38:05.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T11:38:05.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Views\\Shared\\_Layout.cshtml",
@@ -538,12 +519,11 @@
               "RelativeToolTip": "ProdajaAutomobila\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAGwAAAAAAAAAAABQvVsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-06T11:28:59.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T11:28:59.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Views\\Products\\Index.cshtml",
@@ -551,8 +531,7 @@
               "RelativeToolTip": "ProdajaAutomobila\\Views\\Products\\Index.cshtml",
               "ViewState": "AQIAAGkAAAAAAAAAAAAAADEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-06T11:15:44.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T11:15:44.355Z"
             },
             {
               "$type": "Document",
@@ -568,7 +547,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Controllers\\ProductsController.cs",
@@ -576,8 +555,7 @@
               "RelativeToolTip": "ProdajaAutomobila\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAABsBAAAAAAAAAAAAAPwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:59:33.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T10:59:33.285Z"
             },
             {
               "$type": "Document",
@@ -590,7 +568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "20240805120900_FirstMigration.cs",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Migrations\\20240805120900_FirstMigration.cs",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Migrations\\20240805120900_FirstMigration.cs",
@@ -598,12 +576,11 @@
               "RelativeToolTip": "ProdajaAutomobila\\Migrations\\20240805120900_FirstMigration.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T12:09:02.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T12:09:02.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\Models\\Product.cs",
@@ -611,8 +588,7 @@
               "RelativeToolTip": "ProdajaAutomobila\\Models\\Product.cs",
               "ViewState": "AQIAABgAAABAzMzMzMwcwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T14:56:07.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T14:56:07.87Z"
             },
             {
               "$type": "Document",
@@ -640,15 +616,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\appsettings.json",
               "RelativeDocumentMoniker": "ProdajaAutomobila\\appsettings.json",
               "ToolTip": "C:\\Users\\Belmin\\source\\repos\\ProdajaAutomobila\\ProdajaAutomobila\\appsettings.json",
               "RelativeToolTip": "ProdajaAutomobila\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-31T14:48:39.204Z"
+              "WhenOpened": "2024-07-31T14:48:39.204Z",
+              "EditorCaption": ""
             }
           ]
         }
